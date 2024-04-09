@@ -1,6 +1,8 @@
 <h1 align="left">Hi, I'm Kim Sang-Jun</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 
+- 📫 How to reach me **dfg7785@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
