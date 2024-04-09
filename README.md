@@ -14,3 +14,4 @@
 
 <img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
 [instagram]: https://instagram.com/dfg7785
+[e-mail]: dfg7785@gamail.com
