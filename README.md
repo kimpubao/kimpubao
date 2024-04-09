@@ -12,5 +12,5 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />]
 [instagram]: https://instagram.com/dfg7785
