@@ -2,7 +2,7 @@
 
 <a href="https://github.com/kimpubao"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kimpubao&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="JUN's github stats" /></a>
 
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpubao&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/kimpubao"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpubao&layout=compact&theme=nord&hide_border=true" /></a> 
 
 ### 🛠 Languages and Tools
 
@@ -12,5 +12,5 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />]
+<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
 [instagram]: https://instagram.com/dfg7785
