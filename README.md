@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sang_Jun%20CODE%20)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/dfg7785/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfg7785)](https://solved.ac/dfg7785/)
 
 <a href="https://github.com/kimpubao"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kimpubao&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="JUN's github stats" /></a>
 
