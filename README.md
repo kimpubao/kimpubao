@@ -15,6 +15,7 @@
 
 <img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
 [instagram]<br> https://instagram.com/ksj933<br>
+<a href="mailto:이메일계정@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 [e-mail] <br> dfg7785@gamail.com
 
 <br>
