@@ -37,7 +37,7 @@
 
 ### 🏆 참가 이력
 
-- 📈 Dacon 기업 성공 확률 예측 AI 경진대회 (2024) – 상위 약 8% 성적, LightGBM + XGBoost + CatBoost 앙상블 활용
+- 📈 Dacon 기업 성공 확률 예측 AI 경진대회 (2024) – LightGBM + XGBoost + CatBoost 앙상블 활용
 
 ---
 
