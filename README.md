@@ -1,25 +1,45 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sang_Jun%20CODE%20)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfg7785)](https://solved.ac/dfg7785/)
 
-<a href="https://github.com/kimpubao"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kimpubao&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="JUN's github stats" /></a>
+<a href="https://github.com/kimpubao">
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kimpubao&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="JUN's github stats" />
+</a>
+<a href="https://github.com/kimpubao">
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpubao&layout=compact&theme=nord&hide_border=true" />
+</a> 
 
-<a href="https://github.com/kimpubao"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpubao&layout=compact&theme=nord&hide_border=true" /></a> 
+---
+
+### 💬 About Me
+
+- 🌱 AI 웹 개발 및 데이터 사이언스 분야를 공부하고 있습니다.
+- 🔍 관심 분야: LLM, RAG, 자연어처리(NLP), 알고리즘, 데이터 분석
+- 📘 **Multicampus AI Web Developer 7th (2024.02 ~ 2024.08) 수료**
+- 🏫 **한국폴리텍대학 분당융합기술교육원**  
+  AI응용소프트웨어과 재학 중 (2025.03 ~ 2025.12)
+
+---
 
 ### 🛠 Languages and Tools
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> </t>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
 
+---
 
-<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
-[instagram]<br> https://instagram.com/ksj933
-<br>
-<br>
-<a href="mailto:이메일계정@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
-dfg7785@gamail.com
+### 📫 Contact
+
+<a href="mailto:dfg7785@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
 
 <br>
-<br>
-[ps] learning process_multicampus AI WEB 7th(24.02-24.08)
+
+<a href="https://instagram.com/ksj933">
+  <img align="left" alt="Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
+</a>
+📸 Instagram: [ksj933](https://instagram.com/ksj933)
